@@ -63,5 +63,7 @@ This project explores Netflix's catalog, user ratings, and viewership metrics ac
 
 ## 📂 Repository Structure
 
-*   `analysis/`: Contains the end-to-end Python data pipeline, spanning missing value imputation, date conversions, relational table joins, and fully optimized data visualization code.
-*   `data/`: Data architecture files housing the original relational CSV files (`titles`, `genres`, `cast`, `ratings`, `viewership`).
+## Project Structure
+
+* **`data/`** - Housing the original relational CSV files (titles, genres, cast, ratings, viewership).
+* **`netflix_data_analysis.ipynb`** - The end-to-end Python data pipeline, spanning missing value imputation, date conversions, relational table joins, and fully optimized data visualization code.
